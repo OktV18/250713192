@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 5px;
+    color: #222;
+}
+
+.desc {
+    text-align: center;
+    font-size: 13px;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, tr, td {
+    border: 1px solid #ccc;
+}
+
+td {
+    padding: 10px 12px;
+}
+
+.label-cell {
+    width: 35%;
+}
+
+.section-header {
+    background-color: #eaeaea;
+    color: #333;
+}
+
+input[type="text"], select, textarea {
+    width: 95%;
+    padding: 6px;
+    border: 1px solid #bbb;
+    border-radius: 3px;
+}
+
+label {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.submit-center {
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #555;
+}
